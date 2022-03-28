@@ -1,0 +1,5 @@
+functools
+python-docx
+PyQt5
+sqlite3
+barcode
